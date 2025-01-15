@@ -25,6 +25,9 @@ PIN_MACRO(pin7, <&kp N7>)
 PIN_MACRO(pin8, <&kp N8>)
 PIN_MACRO(pin9, <&kp N9>)
 PIN_MACRO(pin10, <&kp N1 &kp N0>)
+PIN_MACRO(pin11, <&kp N1 &kp N1>)
+PIN_MACRO(pin12, <&kp N1 &kp N2>)
+PIN_MACRO(pin13, <&kp N1 &kp N7>)
 PIN_MACRO(pin14, <&kp N1 &kp N4>)
 PIN_MACRO(pin15, <&kp N1 &kp N5>)
 PIN_MACRO(pin16, <&kp N1 &kp N6>)
@@ -49,6 +52,9 @@ PIN_MACRO(pin21, <&kp N2 &kp N1>)
                         &pin8
                         &pin9
                         &pin10
+                        &pin11
+                        &pin12
+                        &pin13
                         &pin14
                         &pin15
                         &pin16
