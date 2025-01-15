@@ -1,6 +1,6 @@
 file_format: "1"
 id: tester_nrf52840
-name: TesterNRF52840
+name: Tester NRF52840
 type: shield
 url: https://zmk.dev/docs/troubleshooting/hardware-issues
 requires: [pro_micro]
