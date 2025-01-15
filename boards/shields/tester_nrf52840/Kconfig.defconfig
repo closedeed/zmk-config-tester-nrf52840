@@ -1,7 +1,7 @@
-if SHIELD_TESTER_PRO_MICRO
+if SHIELD_TESTER_NRF52840
 
 config ZMK_KEYBOARD_NAME
-    default "ZMK Tester"
+    default "ZMK Tester NRF52840"
 
 config ZMK_BLE
     def_bool n
